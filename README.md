@@ -42,23 +42,31 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
+<img width="1536" height="1024" alt="Copilot_20260728_231319" src="https://github.com/user-attachments/assets/bbaa145b-a4d2-4b0d-bb48-8727126e1e57" />
 
 
 
 cat < file2
 ## OUTPUT
+<img width="1536" height="1024" alt="Copilot_20260728_233023" src="https://github.com/user-attachments/assets/027081d9-3270-4589-a2ae-b1aa3cb32f25" />
+
+
 
 
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- 
+
+<img width="1536" height="1024" alt="Copilot_20260728_233341" src="https://github.com/user-attachments/assets/b58d3470-b0e1-4d1e-b946-e75b823d3029" />
+
 comm file1 file2
  ## OUTPUT
+<img width="1536" height="1024" alt="Copilot_20260728_233827" src="https://github.com/user-attachments/assets/465a4519-fc06-43d1-b9c1-ccb4fb59ec1a" />
 
  
 diff file1 file2
 ## OUTPUT
+<img width="1536" height="1024" alt="Copilot_20260728_234208" src="https://github.com/user-attachments/assets/2224ac57-31cf-439f-8273-ff3ad9dff1e8" />
 
 
 #Filters
@@ -82,6 +90,7 @@ cat > file22
 
 cut -c1-3 file11
 ## OUTPUT
+<img width="1536" height="1024" alt="Copilot_20260728_234636" src="https://github.com/user-attachments/assets/94e1e317-803b-40ed-ab4f-13f921fd8993" />
 
 
 
